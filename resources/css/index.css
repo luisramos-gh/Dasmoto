@@ -1,5 +1,6 @@
 body {
     font-family: Helvetica;
+    background-image: url('./images/pattern.webp');
 }
 
 h1 {
@@ -8,7 +9,6 @@ h1 {
     font-weight: bold;
     color: khaki;
     text-align: center;    
-    background-image: url('./images/pattern.webp');
 }
 
 h2 {
